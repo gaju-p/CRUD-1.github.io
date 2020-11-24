@@ -1,0 +1,35 @@
+.down{
+    padding-top:100px;
+    margin: 0 auto;
+}
+.space{
+    margin: auto;
+}
+
+.footer{
+    text-align: center;
+    padding: 10px;
+    margin-top: 150px;
+    font-size: 18px;    
+}
+.nav-link{
+    text-align: center;
+}
+@media (max-width: 767.98px) { 
+
+    /**insert data**/
+    .down{
+        justify-content: center;
+        text-align: center;
+        margin-left: 100px;
+    }
+
+    .space{
+        margin-bottom: auto;
+        height: 70px;
+    }
+
+    .footer{
+        margin-top: auto;
+    }
+}
